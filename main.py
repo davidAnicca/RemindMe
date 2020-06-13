@@ -1,0 +1,3 @@
+from tkui import *
+
+run()
